@@ -1,6 +1,6 @@
 package com.example.application11_03;
 
-public class movie {
+public class Movie {
     String rnum;
     String rank;
     String rankInten;
